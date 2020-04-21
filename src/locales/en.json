@@ -1,0 +1,12 @@
+{
+    "menu.home": "Home",
+    "menu.history": "History",
+    "menu.planning": "Planning",
+    "menu.record": "New record",
+    "menu.categories": "Categoreies",
+
+
+    "title.profile": "Profile",
+    "title.login": "Login",
+    "title.registration": "Registration"
+}
